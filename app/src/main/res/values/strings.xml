@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="facebook_app_id">349468793190932</string>
+    <string name="fb_login_protocol_scheme">fb349468793190932</string>
+    <string name="hello">weatherapp</string>
+    <string name="Weatherapp">Weather App</string>
+    <string name="hint_input">Введите название города</string>
+    <string name="search_hint">Введите название города</string>
+</resources>

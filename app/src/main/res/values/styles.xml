@@ -1,0 +1,14 @@
+<resources>
+
+
+    <style name="Regular">
+        <item name="android:fontFamily">@font/t</item>
+        <item name="fontFamily">@font/t</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="ForText">
+        <item name="android:fontFamily">@font/t</item>
+        <item name="fontFamily">@font/r</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>
